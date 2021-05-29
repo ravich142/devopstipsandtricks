@@ -14,5 +14,6 @@ copyright: 'Copyright &copy; Mouli veera'
 nav:
   - Home:
     - 'testpage': 'index.md'
-  - Elasticsearch:
-    - 'How to resolve unassigned shards in Elasticsearch': 'elasticsearch/resolve-unassigned-shards-in-elasticsearch.md'
+  - Devops:
+    - Elasticsearch:
+      - 'How to resolve unassigned shards in Elasticsearch': 'elasticsearch/resolve-unassigned-shards-in-elasticsearch.md'
