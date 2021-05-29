@@ -16,3 +16,20 @@ nav:
     - 'Index': 'index.md'
   - Elasticsearch:
     - 'How to resolve unassigned shards in Elasticsearch': 'elasticsearch/resolve-unassigned-shards-in-elasticsearch.md'
+
+# Theme and Extension Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'blue'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
