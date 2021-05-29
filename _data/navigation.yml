@@ -1,16 +1,23 @@
 # Project Info
-site_name: 'DevOps Documentation'
-site_description: 'Tips and Tricks Documentation'
-site_author: 'Mouli Veera'
-site_url: 'https://mouliveera.github.io/devopstipsandtricks/'
+##site_name: 'DevOps Documentation'
+##site_description: 'Tips and Tricks Documentation'
+##site_author: 'Mouli Veera'
+##site_url: 'https://mouliveera.github.io/devopstipsandtricks/'
 
 # Repository Info
-repo_name: 'Devops Tips and Tricks'
+##repo_name: 'Devops Tips and Tricks'
 
 # Copyright
-copyright: 'Copyright &copy; Mouli veera'
+##copyright: 'Copyright &copy; Mouli veera'
 
 # Context
+##docs:
+##  title: Elasticsearch
+##    - 'How to resolve unassigned shards in Elasticsearch': 'elasticsearch/resolve-unassigned-shards-in-elasticsearch.md'
+# documentation links
 docs:
-  title: Elasticsearch
-    - 'How to resolve unassigned shards in Elasticsearch': 'elasticsearch/resolve-unassigned-shards-in-elasticsearch.md'
+  - title: Getting Started
+    children:
+      - title: "Elasticsearch Quick-Start Guide"
+        #url: /docs/quick-start-guide/
+        url: /docs/elasticsearch/
