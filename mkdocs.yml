@@ -5,7 +5,8 @@ site_author: 'Mouli Veera'
 site_url: 'https://mouliveera.github.io/devopstipsandtricks/'
 
 # Repository Info
-repo_name: 'Devops Tips and Tricks'
+repo_name: 'mouliveera/devopstipsandtricks'
+repo_url: 'https://github.com/mouliveera/devopstipsandtricks'
 
 # Copyright
 copyright: 'Copyright &copy; Mouli veera'
