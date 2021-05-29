@@ -10,9 +10,9 @@ repo_name: 'Devops Tips and Tricks'
 # Copyright
 copyright: 'Copyright &copy; Mouli veera'
 
-# Context
+# Context  
 nav:
   - Home:
-    - 'testpage': 'index.md'
+    - 'Index': 'index.md'
   - Elasticsearch:
     - 'How to resolve unassigned shards in Elasticsearch': 'elasticsearch/resolve-unassigned-shards-in-elasticsearch.md'
