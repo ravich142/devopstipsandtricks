@@ -31,6 +31,6 @@ theme:
 markdown_extensions:
   - admonition
   - codehilite:
-      guess_lang: false
+      guess_lang: fal
   - toc:
       permalink: true
